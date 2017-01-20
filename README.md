@@ -1,5 +1,5 @@
 # Student Information Management System
-This is a Student Information Management System developed on C# .NET platform. I created the software for a dance academy. The software however is open source.
+This is a Student Information Management System developed on C# .NET platform. I created the software for a dance academy. The software is open source.
 
 # Features
 - Add, Edit, View various student information
