@@ -16,5 +16,3 @@ This is a Student Information Management System developed on C# .NET platform
 2. Place the School.mdb database file at C:\School\ folder
 3. Login using the default admin id and password during first time use
 
-# Enjoy!
-
