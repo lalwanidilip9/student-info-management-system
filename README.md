@@ -7,7 +7,7 @@ This is a Student Information Management System developed on C# .NET platform
 - Has a Login Manager for different users
 - Attractive User Interface
 - Allows to manage student tuition fee payments and tracks late or pending payments
-- Stores academy expenses and helps to monitor financial information based on income and expenses
+- Stores academic expenses and helps to monitor financial information based on income and expenses
 - Added Receipt print functionality
 
 # Installation Instructions
